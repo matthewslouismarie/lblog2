@@ -1,0 +1,1 @@
+from lblog2 import app
